@@ -4,8 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{DB372693-9C65-445D-94C1-530FB3723D7B}" Loaded="No" Name="ERP_3" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ERP_3.prj"/>
 		<Model Expanded="Yes" ID="{DB372693-9C65-445D-94C1-530FB3723D7B}" Name="ERP_3" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ERP_3.prj"/>
+		<Model Expanded="Yes" ID="{DB372693-9C65-445D-94C1-530FB3723D7B}" Loaded="No" Name="ERP_3" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ERP_3.prj"/>
 	</Local>
-	<BrowserModule Name="仓库(&amp;R)"/>
+	<BrowserModule Name="Repository" Selected="Yes"/>
 </Workspace>
